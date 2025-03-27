@@ -20,9 +20,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 - 🤝 I'm open to **collaborating on interesting projects**  
 - ⚡ Fun fact: **I am Batman 🦇🦇**  
 
----
-
-## 🛠 **Tech Stack**  
+--- 
 
 ## 🛠 **Skills**  
 
