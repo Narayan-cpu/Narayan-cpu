@@ -34,7 +34,7 @@ I am Narayan Naik, a passionate Data Science and Machine Learning enthusiast, Fu
 </a>
 
 <a href="http://www.github.com/Narayan-cpu">
-  <img src="https://streak-stats.demolab.com/?user=Narayan-cpu&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&theme=dark" />
 </a>
 
 <a href="http://www.github.com/Narayan-cpu">
