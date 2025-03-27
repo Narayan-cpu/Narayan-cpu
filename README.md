@@ -60,8 +60,14 @@ I am Narayan Naik, a passionate Data Science and Machine Learning enthusiast, Fu
 ---
 
 ## 📊 GitHub Stats  
-![Narayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanprashantnaik&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narayanprashantnaik&layout=compact&theme=tokyonight)  
+
+<a href="http://www.github.com/Narayan-cpu">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=dark" />
+</a>
+<a href="http://www.github.com/Narayan-cpu">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan-cpu&theme=react-dark" />
+</a>
+
 
 ---
 
