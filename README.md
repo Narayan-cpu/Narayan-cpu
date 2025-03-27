@@ -34,8 +34,9 @@ I am Narayan Naik, a passionate Data Science and Machine Learning enthusiast, Fu
 </a>
 
 <a href="http://www.github.com/Narayan-cpu">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=dark" />
 </a>
+
 
 <a href="http://www.github.com/Narayan-cpu">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan-cpu&bg_color=1e3a8a&color=f97316&line=84cc16&point=f97316&area=true&hide_border=true" />
