@@ -29,8 +29,15 @@ I am Narayan Naik, a passionate Data Science and Machine Learning enthusiast, Fu
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Narayan-cpu"><img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=f97316&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Narayan-cpu's GitHub stats" /></a>
+<a href="http://www.github.com/Narayan-cpu">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=radical" />
+</a>
 
-<a href="http://www.github.com/Narayan-cpu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&stroke=f97316&background=1e3a8a&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/Narayan-cpu">
+  <img src="https://streak-stats.demolab.com/?user=Narayan-cpu&theme=dark" />
+</a>
 
-<a href="http://www.github.com/Narayan-cpu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Narayan-cpu&bg_color=1e3a8a&color=f97316&line=84cc16&point=f97316&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Narayan-cpu">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan-cpu&bg_color=1e3a8a&color=f97316&line=84cc16&point=f97316&area=true&hide_border=true" />
+</a>
+
