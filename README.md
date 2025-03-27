@@ -77,7 +77,7 @@ I am Narayan Naik, a passionate Data Science and Machine Learning enthusiast, Fu
   </a>
   <br />
  <a href="http://www.github.com/Narayan-cpu">
-    <img src="https://github-readme-streak-stats.vercel.com/?user=Narayan-cpu&theme=dark&hide_border=false" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-cpu&theme=github_dark" />
 </a>
 
 </p>
