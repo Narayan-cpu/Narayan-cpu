@@ -94,10 +94,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
   <br />
 
-  <!-- GitHub Streak -->
-  <a href="http://www.github.com/Narayan-cpu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&theme=dark" />
-  </a>
+
 
   <br />
 
