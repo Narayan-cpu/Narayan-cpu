@@ -80,11 +80,33 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
   </a>
   <br />
   
-  <br />
+  <!-- Profile Summary -->
   <a href="http://www.github.com/Narayan-cpu">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-cpu&theme=github_dark" />
   </a>
+  
+  <br />
+  
+  <!-- Most Used Languages -->
+  <a href="http://www.github.com/Narayan-cpu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-cpu&langs_count=8&theme=dark&layout=compact" />
+  </a>
+
+  <br />
+
+  <!-- GitHub Streak -->
+  <a href="http://www.github.com/Narayan-cpu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&theme=dark" />
+  </a>
+
+  <br />
+
+  <!-- Activity Graph -->
+  <a href="http://www.github.com/Narayan-cpu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan-cpu&bg_color=0d1117&color=ffffff&line=5e5e5e&point=ffffff&area=true&hide_border=true" />
+  </a>
 </p>
+
 
 ---
 
