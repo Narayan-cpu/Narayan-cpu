@@ -3,111 +3,71 @@
   <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Narayan Naik Banner" />
 </p>
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Narayan Prashant Naik  
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Narayan+Prashant+Naik;Full+Stack+Developer;ML+and+AI+Enthusiast;Tech+Explorer+from+India;&center=true&width=500&height=40&color=F7F7F7&vCenter=true&size=22">
+</p>
 
-## 🚀 Data Science & ML Enthusiast | Full Stack Developer | Software Engineer  
+---
+
+# 🧑‍💻 About Me
 
 I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusiast, Full Stack Developer, and Software Engineer**. I love building intelligent systems, scalable applications, and solving complex problems with cutting-edge technologies.  
 
-💻 **Tech enthusiast exploring AI, ML, and Web Development**  
-🔭 Currently working on **AI-based projects and full-stack applications**  
-📈 Passionate about **data analysis, cloud computing, and automation**  
+> _"Transforming data into decisions. Code into solutions. Problems into progress."_
 
-- 🌍 I'm based in **India**  
-- 🖥️ See my portfolio at [Narayan Naik](http://thenarayannaik.live/)  
-- ✉️ Contact me at [naiknarayanp557@gmail.com](mailto:naiknarayanp557@gmail.com)  
-- 🧠 I'm learning **Data Science & AI**  
-- 🤝 I'm open to **collaborating on interesting projects**  
-- ⚡ Fun fact: **I am Batman 🦇🦇**  
-
---- 
-
-## 🛠 **Skills**  
-
-### 🔹 **Programming Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-### 🔹 **Machine Learning & Data Science**
-<p align="center">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-00A6D6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-### 🔹 **Web Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### 🔹 **Databases & Cloud**
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-</p>
-
-### 🔹 **DevOps & Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
+- 🌍 Based in **India**  
+- 🖥️ Portfolio: [thenarayannaik.live](http://thenarayannaik.live/)  
+- ✉️ Email: [naiknarayanp557@gmail.com](mailto:naiknarayanp557@gmail.com)  
+- 🧠 Learning: **AI, NLP, RAG, and MLOps**  
+- 🤝 Open to **collaborations and contributions**  
+- ⚡ Fun fact: **I am Batman 🦇**  
 
 ---
 
-## 📊 **GitHub Stats & Graphs**  
+## 🛠️ Skills
+
+### 🚀 Languages & Tools
 <p align="center">
-  <a href="http://www.github.com/Narayan-cpu">
-    <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=dark" />
-  </a>
-  <br />
-  
-  <!-- Profile Summary -->
-  <a href="http://www.github.com/Narayan-cpu">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-cpu&theme=github_dark" />
-  </a>
-  
-  <br />
-  
-  <!-- Most Used Languages -->
-  <a href="http://www.github.com/Narayan-cpu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-cpu&langs_count=8&theme=dark&layout=compact" />
-  </a>
-
-  <br />
-
-
-
-  <br />
-
-  <!-- Activity Graph -->
-  <a href="http://www.github.com/Narayan-cpu">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Narayan-cpu&bg_color=0d1117&color=ffffff&line=5e5e5e&point=ffffff&area=true&hide_border=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css,react,nextjs,nodejs,flask,django,mongodb,postgres,docker,git,aws" />
 </p>
-
 
 ---
 
-## 📫 **Connect with Me**  
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🐾 Furfam](https://github.com/Narayan-cpu/furfam) | Stray pet adoption platform with helpline search and blog features | Django, Supabase |
+| [🌍 Tripwise](https://github.com/Narayan-cpu/tripwise) | Smart travel planner with AI chatbot support | Django, OpenAI API |
+| [📄 PDF Chatbot](https://github.com/Narayan-cpu/pdf-chatbot) | Ask questions to PDFs using LangChain and embeddings | Python, LangChain |
+| [🧠 Mental Health Bot](https://github.com/Narayan-cpu/mental-bot) | Mental status testing with suggestions using ML | Python, Streamlit |
+| [☁️ WeatherMap API](https://github.com/Narayan-cpu/weather-map) | Live weather map using Stormglass API | Django, JS, HTML/CSS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=dark" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-cpu&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-cpu&langs_count=8&theme=dark&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Narayan-cpu&theme=algolia&no-bg=true&no-frame=true&column=7" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
 <p align="center">
   <a href="mailto:naiknarayanp557@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -121,4 +81,8 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
   <a href="https://github.com/Narayan-CPU">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Narayan-cpu&style=flat-square&color=blue" alt="GitHub profile views" />
 </p>
