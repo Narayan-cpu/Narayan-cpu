@@ -34,18 +34,6 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🐾 Furfam](https://github.com/Narayan-cpu/furfam) | Stray pet adoption platform with helpline search and blog features | Django, Supabase |
-| [🌍 Tripwise](https://github.com/Narayan-cpu/tripwise) | Smart travel planner with AI chatbot support | Django, OpenAI API |
-| [📄 PDF Chatbot](https://github.com/Narayan-cpu/pdf-chatbot) | Ask questions to PDFs using LangChain and embeddings | Python, LangChain |
-| [🧠 Mental Health Bot](https://github.com/Narayan-cpu/mental-bot) | Mental status testing with suggestions using ML | Python, Streamlit |
-| [☁️ WeatherMap API](https://github.com/Narayan-cpu/weather-map) | Live weather map using Stormglass API | Django, JS, HTML/CSS |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
