@@ -29,7 +29,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
 ### 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css,react,nextjs,nodejs,express,flask,django,fastapi,mongodb,postgres,mysql,firebase,supabase,sqlite,tensorflow,pytorch,numpy,pandas,jupyter,docker,kubernetes,git,github,aws,gcp,azure,bash,postman,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css,react,nextjs,nodejs,express,flask,django,fastapi,mongodb,postgres,mysql,firebase,supabase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,postman,vscode,pycharm" />
 </p>
 
 ---
