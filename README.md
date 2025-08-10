@@ -29,7 +29,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
 ### 🚀 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css,react,nextjs,nodejs,express,flask,django,fastapi,mongodb,postgres,mysql,firebase,supabase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,npm,postman,vercel,jupyter,figma,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css,react,nextjs,nodejs,express,flask,django,fastapi,mongodb,postgres,mysql,firebase,supabase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,npm,postman,vercel,figma,pycharm,vscode" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
@@ -84,5 +84,6 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Narayan-cpu&style=flat-square&color=blue" alt="GitHub profile views" />
 </p>
+
 
 
