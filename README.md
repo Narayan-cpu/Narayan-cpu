@@ -78,10 +78,6 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Narayan-cpu&repo=Tripwise&theme=radical)](https://github.com/Narayan-cpu/Tripwise)
 
 
