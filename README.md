@@ -79,4 +79,8 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
 
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
 
