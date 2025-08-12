@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Narayan Naik Banner" />
+  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="Narayan Naik Banner" width="100%" />
 </p>
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Narayan+Prashant+Naik;Full+Stack+Developer;ML+and+AI+Enthusiast;Tech+Explorer+from+India;&center=true&width=500&height=40&color=F7F7F7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Narayan+Prashant+Naik;Full+Stack+Developer;ML+and+AI+Enthusiast;Tech+Explorer+from+India;&center=true&width=500&height=45&color=F7F7F7&vCenter=true&size=24">
 </p>
 
 ---
@@ -81,6 +81,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 <p align="center">
   <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 
