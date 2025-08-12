@@ -78,9 +78,9 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 </p>
 
 
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
