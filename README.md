@@ -78,7 +78,12 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 </p>
 
 
-![GitHub Skyline](skyline.gif)
-
+<p align="center">
+  <a href="https://skyline.github.com/Narayan-cpu" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/Narayan-CPU/Narayan-CPU/main/assets/skyline.gif"
+         alt="Narayan Naik — GitHub Skyline"
+         style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(128,0,255,0.25);" />
+  </a>
+</p>
 
 
