@@ -56,14 +56,6 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Narayan-cpu&theme=algolia&no-bg=true&no-frame=true&column=7" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -84,6 +76,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Narayan-cpu&style=flat-square&color=blue" alt="GitHub profile views" />
 </p>
+
 
 
 
