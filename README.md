@@ -78,6 +78,7 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 </p>
 
 
-![Visitor Map](https://raw.githubusercontent.com/ashutosh00710/ashutosh00710/main/assets/github-contribution-grid-snake.svg)
+![GitHub Skyline](skyline.gif)
+
 
 
