@@ -43,17 +43,6 @@ I love building intelligent systems, scalable applications, and solving complex 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| 🐾 **FurFam** | Stray adoption platform with pet listings & blogs | Django, PostgreSQL, Tailwind |
-| 🧠 **Mental Health AI Bot** | AI chatbot for mental wellness & resources | Python, NLP, LangChain |
-| 🌍 **TripWise** | AI-powered travel planner | Django, OpenAI API, Maps API |
-| ☁ **Weather Map API** | Real-time weather visualization | Django, JS, OpenWeather |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -96,3 +85,4 @@ I love building intelligent systems, scalable applications, and solving complex 
          style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(128,0,255,0.25);" />
   </a>
 </p>
+
