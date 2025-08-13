@@ -78,3 +78,7 @@ I love building intelligent systems, scalable applications, and solving complex 
   <img src="https://komarev.com/ghpvc/?username=Narayan-cpu&style=for-the-badge&color=blue" alt="GitHub profile views" />
 </p>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Happy+Coding+💻;Let’s+Connect!&center=true&size=24">
+</p>
