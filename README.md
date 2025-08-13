@@ -10,9 +10,10 @@
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusiast, Full Stack Developer, and Software Engineer**. I love building intelligent systems, scalable applications, and solving complex problems with cutting-edge technologies.  
+I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusiast, Full Stack Developer, and Software Engineer**.  
+I love building intelligent systems, scalable applications, and solving complex problems with cutting-edge technologies.  
 
 > _"Transforming data into decisions. Code into solutions. Problems into progress."_
 
@@ -25,9 +26,8 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-### 🚀 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go,html,css,react,nextjs,nodejs,express,flask,django,fastapi,mongodb,postgres,mysql,firebase,supabase,sqlite,tensorflow,pytorch,docker,kubernetes,git,github,aws,gcp,azure,bash,npm,postman,vercel,figma,pycharm,vscode" />
 </p>
@@ -41,17 +41,35 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| 🐾 **FurFam** | Stray adoption platform with pet listings & blogs | Django, PostgreSQL, Tailwind |
+| 🧠 **Mental Health AI Bot** | AI chatbot for mental wellness & resources | Python, NLP, LangChain |
+| 🌍 **TripWise** | AI-powered travel planner | Django, OpenAI API, Maps API |
+| ☁ **Weather Map API** | Real-time weather visualization | Django, JS, OpenWeather |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=radical" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-cpu&theme=github_dark" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan-cpu&langs_count=8&theme=dark&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Narayan-cpu&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -59,24 +77,17 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:naiknarayanp557@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://thenarayannaik.live/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/narayanprashantnaik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Narayan-CPU">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:naiknarayanp557@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="http://thenarayannaik.live/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/narayanprashantnaik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Narayan-CPU"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Narayan-cpu&style=flat-square&color=blue" alt="GitHub profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Narayan-cpu&style=for-the-badge&color=blue" alt="GitHub profile views" />
 </p>
-
 
 <p align="center">
   <a href="https://skyline.github.com/Narayan-cpu" target="_blank" rel="noopener">
@@ -85,6 +96,3 @@ I am **Narayan Naik**, a passionate **Data Science and Machine Learning enthusia
          style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 8px 30px rgba(128,0,255,0.25);" />
   </a>
 </p>
-
-
-
