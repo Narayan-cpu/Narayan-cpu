@@ -55,14 +55,6 @@ I love building intelligent systems, scalable applications, and solving complex 
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Narayan-cpu&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
@@ -82,3 +74,4 @@ I love building intelligent systems, scalable applications, and solving complex 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Happy+Coding+💻;Let’s+Connect!&center=true&size=24">
 </p>
+
