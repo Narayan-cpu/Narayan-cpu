@@ -72,6 +72,8 @@ I love building intelligent systems, scalable applications, and solving complex 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Thanks+for+visiting!;Happy+Coding+💻;Let’s+Connect!&center=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+Me+![MuaKissGIF](https://github.com/user-attachments/assets/ac71403e-0455-448c-ae92-9f0547af6e8d)
+;Thanks+for+visiting!;Happy+Coding+💻;Let’s+Connect!&center=true&size=24">
 </p>
+
 
