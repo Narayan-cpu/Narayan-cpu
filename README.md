@@ -46,11 +46,10 @@ I love building intelligent systems, scalable applications, and solving complex 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narayan-cpu&show_icons=true&theme=radical" />
+  
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narayan-cpu&theme=github_dark" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan-cpu&theme=radical" />
+  
 </p>
 
 ---
@@ -74,6 +73,7 @@ I love building intelligent systems, scalable applications, and solving complex 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+Me+(❤️´艸｀❤️);Thanks+for+visiting!;Happy+Coding+💻;Let’s+Connect!&center=true&size=24">
 </p>
+
 
 
 
