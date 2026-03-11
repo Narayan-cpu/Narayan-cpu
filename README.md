@@ -18,7 +18,7 @@ I love building intelligent systems, scalable applications, and solving complex 
 > _"Transforming data into decisions. Code into solutions. Problems into progress."_
 
 - 🌍 Based in **India**  
-- 🖥️ Portfolio: [thenarayannaik.live](http://thenarayannaik.live/)  
+- 🖥️ Portfolio: [thenarayannaik.live](http://thenarayannaik.xyz/)  
 - ✉️ Email: [naiknarayanp557@gmail.com](mailto:naiknarayanp557@gmail.com)  
 - 🧠 Learning: **AI, NLP, RAG, and MLOps**  
 - 🤝 Open to **collaborations and contributions**  
@@ -73,6 +73,7 @@ I love building intelligent systems, scalable applications, and solving complex 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+Me+(❤️´艸｀❤️);Thanks+for+visiting!;Happy+Coding+💻;Let’s+Connect!&center=true&size=24">
 </p>
+
 
 
 
